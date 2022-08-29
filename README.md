@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Quang Long - Developer in Da Nang City, Viet Nam
+<div id="header" align="center">
+  <img src="https://preview.redd.it/y0yb82fe1gv11.gif?format=mp4&s=6603bd7dce5c3f70d3cc746697ba95ecd6dc368d" width="100"/>
+</div>
 <!--
 **qlongdevdn/qlongdevdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
